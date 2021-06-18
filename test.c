@@ -1,4 +1,1 @@
-ssss
-
- #include
-intadss
+#include <stdio.h>

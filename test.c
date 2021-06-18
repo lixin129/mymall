@@ -1,0 +1,7 @@
+ssss
+
+
+__GCC_ATOMIC_TEST_AND_SET_TRUEVAL
+
+
+as

@@ -1,2 +1,2 @@
-#include <stdio.h>
+#include <iostream>
 int a = 1;
